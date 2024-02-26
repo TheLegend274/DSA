@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=ShoppingCart
+comment0.text=\n\ ShoppingCart\n\n\ @author\ (Mathew\ Sabu)\n\ @version\ (9/20/2023)\n
+comment1.params=
+comment1.target=ShoppingCart()
+comment2.params=passedBag
+comment2.target=ShoppingCart(BagInterface)
+comment3.params=anItem
+comment3.target=boolean\ add(Item)
+comment4.params=anItem\ totalItems
+comment4.target=boolean\ addMultiple(Item,\ int)
+comment5.params=budgetAmount
+comment5.target=boolean\ checkBudget(int)
+comment6.params=
+comment6.target=boolean\ removeUnspecified()
+comment7.params=anItem
+comment7.target=boolean\ removeSpecifiedItem(Item)
+comment8.params=
+comment8.target=int\ checkOut()
+numComments=9

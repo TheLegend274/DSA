@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Broker
+comment0.text=\n\n\n\ @Mathew\ Sabu\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Broker()
+comment2.params=numberOfStocks\ stockPrice
+comment2.target=void\ buy(int,\ double)
+comment3.params=numShares\ price
+comment3.target=void\ sell(int,\ double)
+comment4.params=
+comment4.target=void\ getTotalCapitalGain()
+numComments=5

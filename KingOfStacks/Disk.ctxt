@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Disk
+comment0.text=\n\ Disk\ class\n\n\ @author\ Mathew\n\ @version\ 10/06/2023\n
+comment1.params=num
+comment1.target=Disk(int)
+comment2.params=
+comment2.target=int\ getPlayerNumber()
+numComments=3

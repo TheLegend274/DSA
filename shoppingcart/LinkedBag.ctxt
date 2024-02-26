@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=LinkedBag
+comment0.text=\n\ LinkedBag.java\ -\ Link-based\ implementation\ of\ the\ Bag\ ADT\n
+comment1.params=
+comment1.target=LinkedBag()
+comment10.params=anEntry
+comment10.target=int\ getFrequencyOf(java.lang.Object)
+comment11.params=anEntry
+comment11.target=boolean\ contains(java.lang.Object)
+comment2.params=
+comment2.target=int\ getCurrentSize()
+comment3.params=
+comment3.target=boolean\ isEmpty()
+comment4.params=newEntry
+comment4.target=boolean\ add(java.lang.Object)
+comment5.params=
+comment5.target=java.lang.Object[]\ toArray()
+comment6.params=
+comment6.target=java.lang.Object\ remove()
+comment7.params=anEntry
+comment7.target=LinkedBag.Node\ getNodeContaining(java.lang.Object)
+comment8.params=anEntry
+comment8.target=boolean\ remove(java.lang.Object)
+comment9.params=
+comment9.target=void\ clear()
+numComments=12

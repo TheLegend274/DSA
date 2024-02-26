@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Frequencey
+comment0.text=\n\ @author\ (Mathew\ Sabu)\n\ @Dictionary\ (11/16/2023)\n
+comment1.params=
+comment1.target=Frequencey()
+comment2.params=
+comment2.target=void\ read()
+comment2.text=\n\ Reads\ the\ characters\ from\ the\ text\ file\ and\ updates\ the\ frequency\ dicitonary\n\ return\ type\ is\ void\ \n
+comment3.params=
+comment3.target=int\ sumOfValues()
+comment3.text=\n\ Calculates\ and\ returns\ the\ total\ frequency\ of\ all\ characters\n\ @return\ The\ sum\ of\ all\ the\ values\n
+comment4.params=
+comment4.target=void\ displayTotal()
+comment4.text=\ \n\ Prints\ the\ letter,\ how\ many\ times\ it\ appeared,\ and\ the\ frequency\n\ return\ type\ is\ void\n
+numComments=5
